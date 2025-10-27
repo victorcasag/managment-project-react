@@ -155,14 +155,14 @@ O **Sistema de Gestão de Projetos** é uma aplicação web desenvolvida para fa
 
 ### 5.2 Passo a Passo
 
-#### 1. Clonar o Repositório
+#### 5.2.1 Clonar o Repositório
 
 ```bash
 git clone https://github.com/victorcasag/management-project-react.git
 cd management-project-react
 ```
 
-#### 2. Instalar Dependências
+#### 5.2.2 Instalar Dependências
 
 ```bash
 npm install
@@ -177,7 +177,7 @@ Este comando instalará todas as dependências necessárias:
 - Axios
 - date-fns
 
-#### 3. Executar em Modo de Desenvolvimento
+#### 5.2.3 Executar em Modo de Desenvolvimento
 
 ```bash
 npm run dev
@@ -190,7 +190,7 @@ O servidor de desenvolvimento possui:
 - Fast Refresh
 - Reload automático ao salvar arquivos
 
-#### 4. Build para Produção
+#### 5.2.4 Build para Produção
 
 ```bash
 npm run build
@@ -198,7 +198,7 @@ npm run build
 
 Os arquivos otimizados serão gerados na pasta `dist/`
 
-#### 5. Preview da Build de Produção
+#### 5.2.5 Preview da Build de Produção
 
 ```bash
 npm run preview
