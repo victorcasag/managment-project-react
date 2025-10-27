@@ -158,8 +158,8 @@ O **Sistema de Gestão de Projetos** é uma aplicação web desenvolvida para fa
 #### 5.2.1 Clonar o Repositório
 
 ```bash
-git clone https://github.com/victorcasag/management-project-react.git
-cd management-project-react
+git clone https://github.com/victorcasag/managment-project-react.git
+cd managment-project-react
 ```
 
 #### 5.2.2 Instalar Dependências
@@ -225,14 +225,14 @@ Não são necessárias variáveis de ambiente para executar o projeto, pois ele 
 
 ## 6. Link do Repositório GitHub
 
-**Repositório Principal**: [https://github.com/victorcasag/management-project-react](https://github.com/victorcasag/management-project-react)
+**Repositório Principal**: [https://github.com/victorcasag/managment-project-react](https://github.com/victorcasag/managment-project-react)
 
 **Branch de Desenvolvimento**: `master`
 
 ### Estrutura do Repositório
 
 ```
-management-project-react/
+managment-project-react/
 ├── src/
 │   ├── components/       # Componentes reutilizáveis
 │   ├── pages/           # Páginas da aplicação
@@ -515,7 +515,7 @@ Este projeto foi desenvolvido para fins educacionais como parte do Projeto de Di
 
 Para dúvidas ou sugestões sobre o projeto:
 - **GitHub**: [victorcasag](https://github.com/victorcasag)
-- **Repositório**: [management-project-react](https://github.com/victorcasag/management-project-react)
+- **Repositório**: [managment-project-react](https://github.com/victorcasag/managment-project-react)
 
 ---
 
